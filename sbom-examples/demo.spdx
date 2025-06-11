@@ -1,0 +1,405 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+DocumentNamespace: https://www.sparrow.im/spdx/doc/8c4cd70f-4772-4d19-8f6c-4aa79fa93472
+DocumentName: sparrow-sca-spdx23-250611-101251
+SPDXID: SPDXRef-DOCUMENT
+
+## Creation Information
+Creator: Person: Sparrow (cloud@sparrow.im)
+Creator: Tool: Sparrow SCA-1.6
+Created: 2025-06-11T01:12:51Z
+
+FileName: ./BenchmarkJava-master/pom.xml
+SPDXID: SPDXRef-2
+FileChecksum: SHA1: 6c0a58135cac88750aaf83a611c3f31a3ec24335
+LicenseConcluded: NOASSERTION
+FileCopyrightText: <text>noassertion</text>
+## Package Information
+PackageName: com.sun.jersey:jersey-servlet
+SPDXID: SPDXRef-3
+PackageVersion: 1.19.4
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: fbdcb39db6a6976944a621fe11bf1d2ff048d7c2
+PackageLicenseConcluded: (GPL-2.0-with-classpath-exception AND CDDL-1.1)
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: <text>noassertion</text>
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/com.sun.jersey/jersey-servlet@1.19.4
+
+## Package Information
+PackageName: commons-codec:commons-codec
+SPDXID: SPDXRef-4
+PackageVersion: 1.18.0
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: c979c29e17374de4a713ff799be31ba997c3ec52
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/commons-codec/commons-codec@1.18.0
+
+## Package Information
+PackageName: commons-dbcp:commons-dbcp
+SPDXID: SPDXRef-5
+PackageVersion: 1.4
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: 30be73c965cc990b153a100aaaaafcf239f82d39
+PackageLicenseConcluded: Apache-2.0
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: <text>noassertion</text>
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/commons-dbcp/commons-dbcp@1.4
+
+## Package Information
+PackageName: commons-io:commons-io
+SPDXID: SPDXRef-6
+PackageVersion: 2.18.0
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: d905e22c5c3b1075a5a27d9c20311b07c5f0558f
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/commons-io/commons-io@2.18.0
+
+## Package Information
+PackageName: commons-lang:commons-lang
+SPDXID: SPDXRef-7
+PackageVersion: 2.6
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: 67313d715fbf0ea4fd0bdb69217fb77f807a8ce5
+PackageLicenseConcluded: Apache-2.0
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: <text>noassertion</text>
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/commons-lang/commons-lang@2.6
+
+## Package Information
+PackageName: javax:javaee-api
+SPDXID: SPDXRef-8
+PackageVersion: 8.0.1
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: 338ec882eaaccd6c9b56892c3a843e7f7446c11c
+PackageLicenseConcluded: (CDDL-1.1 AND CDDL-1.0)
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: <text>noassertion</text>
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/javax/javaee-api@8.0.1
+
+## Package Information
+PackageName: org.apache.directory.api:api-ldap-model
+SPDXID: SPDXRef-9
+PackageVersion: 2.1.7
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.api/api-ldap-model@2.1.7
+
+## Package Information
+PackageName: org.apache.directory.api:api-ldap-schema-data
+SPDXID: SPDXRef-10
+PackageVersion: 2.1.7
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: 923f923e259ba1a32dee106cbdb653e8e210d621
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.api/api-ldap-schema-data@2.1.7
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-core-annotations
+SPDXID: SPDXRef-11
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-core-annotations@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-core-api
+SPDXID: SPDXRef-12
+PackageVersion: 2.0.0.AM27
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: eed0960b92ac2c30488abde1c7424b205ef23a80
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-core-api@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-core-avl
+SPDXID: SPDXRef-13
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-core-avl@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-core-constants
+SPDXID: SPDXRef-14
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-core-constants@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-core-jndi
+SPDXID: SPDXRef-15
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-core-jndi@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-core
+SPDXID: SPDXRef-16
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-core@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-interceptor-kerberos
+SPDXID: SPDXRef-17
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-interceptor-kerberos@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-jdbm-partition
+SPDXID: SPDXRef-18
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-jdbm-partition@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-kerberos-codec
+SPDXID: SPDXRef-19
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-kerberos-codec@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-ldif-partition
+SPDXID: SPDXRef-20
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-ldif-partition@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-protocol-ldap
+SPDXID: SPDXRef-21
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-protocol-ldap@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-protocol-shared
+SPDXID: SPDXRef-22
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-protocol-shared@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-server-annotations
+SPDXID: SPDXRef-23
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-server-annotations@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-server-jndi
+SPDXID: SPDXRef-24
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-server-jndi@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-test-framework
+SPDXID: SPDXRef-25
+PackageVersion: 2.0.0.AM27
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-test-framework@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.directory.server:apacheds-xdbm-partition
+SPDXID: SPDXRef-26
+PackageVersion: 2.0.0.AM27
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: e095f7dcf8886706ba61088e838d2c1f3c63e536
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.directory.server/apacheds-xdbm-partition@2.0.0.AM27
+
+## Package Information
+PackageName: org.apache.httpcomponents.client5:httpclient5
+SPDXID: SPDXRef-27
+PackageVersion: 5.4.2
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: d6a4248833d6d3d0e8ca318cd342826585bc1805
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.httpcomponents.client5/httpclient5@5.4.2
+
+## Package Information
+PackageName: org.apache.httpcomponents.core5:httpcore5
+SPDXID: SPDXRef-28
+PackageVersion: 5.3.3
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: d6c702631841d1f3202c1f10973a98bab833fe23
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.apache.httpcomponents.core5/httpcore5@5.3.3
+
+## Package Information
+PackageName: org.bouncycastle:bcprov-jdk15on
+SPDXID: SPDXRef-29
+PackageVersion: 1.70
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: 4636a0d01f74acaf28082fb62b317f1080118371
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: SECURITY advisory https://nvd.nist.gov/vuln/detail/CVE-2023-33201
+ExternalRef: SECURITY advisory https://nvd.nist.gov/vuln/detail/CVE-2023-33202
+ExternalRef: SECURITY advisory https://nvd.nist.gov/vuln/detail/CVE-2024-29857
+ExternalRef: SECURITY advisory https://nvd.nist.gov/vuln/detail/CVE-2024-30171
+ExternalRef: SECURITY advisory https://nvd.nist.gov/vuln/detail/CVE-2024-30172
+ExternalRef: SECURITY advisory https://osv.dev/vulnerability/GHSA-8xfc-gm6g-vgpv
+ExternalRef: SECURITY advisory https://osv.dev/vulnerability/GHSA-hr8g-6v94-x4m9
+ExternalRef: SECURITY advisory https://osv.dev/vulnerability/GHSA-m44j-cfrm-g8qc
+ExternalRef: SECURITY advisory https://osv.dev/vulnerability/GHSA-v435-xc8x-wvr9
+ExternalRef: SECURITY advisory https://osv.dev/vulnerability/GHSA-wjxj-5m7g-mg7q
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.bouncycastle/bcprov-jdk15on@1.70
+
+## Package Information
+PackageName: org.hibernate:hibernate-core
+SPDXID: SPDXRef-30
+PackageVersion: 3.6.10.Final
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: 2540ab84fe2a54a63c6b8fe39ebd74aabf6611af
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: SECURITY advisory https://nvd.nist.gov/vuln/detail/CVE-2019-14900
+ExternalRef: SECURITY advisory https://nvd.nist.gov/vuln/detail/CVE-2020-25638
+ExternalRef: SECURITY advisory https://osv.dev/vulnerability/GHSA-8grg-q944-cch5
+ExternalRef: SECURITY advisory https://osv.dev/vulnerability/GHSA-j8jw-g6fq-mp7h
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.hibernate/hibernate-core@3.6.10.Final
+
+## Package Information
+PackageName: org.hibernate:hibernate-entitymanager
+SPDXID: SPDXRef-31
+PackageVersion: 3.6.10.Final
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: c74f1e1bf4fb6b8eaa7e501e6ccba9e055e52974
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.hibernate/hibernate-entitymanager@3.6.10.Final
+
+## Package Information
+PackageName: org.hsqldb:hsqldb
+SPDXID: SPDXRef-32
+PackageVersion: 2.7.4
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: 4aad3c109b5b04927d3bc663bf13535f830401ce
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.hsqldb/hsqldb@2.7.4
+
+## Package Information
+PackageName: org.owasp.esapi:esapi
+SPDXID: SPDXRef-33
+PackageVersion: 2.6.0.0
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: c69a771a17785ba4f65e118885112ac76c71234c
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.owasp.esapi/esapi@2.6.0.0
+
+## Package Information
+PackageName: org.owasp:benchmark
+SPDXID: SPDXRef-34
+PackageVersion: 1.2
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.owasp/benchmark@1.2
+
+## Package Information
+PackageName: org.slf4j:slf4j-reload4j
+SPDXID: SPDXRef-35
+PackageVersion: 2.0.17
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: 334b175c8ce44b3a6815fc92971916f36e15d000
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.slf4j/slf4j-reload4j@2.0.17
+
+## Package Information
+PackageName: org.springframework:spring-context
+SPDXID: SPDXRef-36
+PackageVersion: 5.3.39
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.springframework/spring-context@5.3.39
+
+## Package Information
+PackageName: org.springframework:spring-jdbc
+SPDXID: SPDXRef-37
+PackageVersion: 5.3.39
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.springframework/spring-jdbc@5.3.39
+
+## Package Information
+PackageName: org.springframework:spring-tx
+SPDXID: SPDXRef-38
+PackageVersion: 5.3.39
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.springframework/spring-tx@5.3.39
+
+## Package Information
+PackageName: org.springframework:spring-web
+SPDXID: SPDXRef-39
+PackageVersion: 5.3.39
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.springframework/spring-web@5.3.39
+
+## Package Information
+PackageName: org.springframework:spring-webmvc
+SPDXID: SPDXRef-40
+PackageVersion: 5.3.39
+PackageVerificationCode: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/org.springframework/spring-webmvc@5.3.39
+
+## Package Information
+PackageName: xml-apis:xml-apis
+SPDXID: SPDXRef-41
+PackageVersion: 1.4.01
+PackageSupplier: Person: N/A (None)
+PackageVerificationCode: 5502da0c4c0a7916a604356ef19394ccfa30cd4b
+PackageLicenseConcluded: W3C
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: <text>noassertion</text>
+ExternalRef: PACKAGE-MANAGER purl pkg:maven/xml-apis/xml-apis@1.4.01
+
+
